@@ -1,67 +1,51 @@
 ## Hi there, I'm [Mateus!](https://mateussantin.netlify.app) 👋
 
-<a href="https://discord.gg/jzDwNWPr" target="_blank">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+```
+Hello, my name is Mateus Santin Jr, a web developer passionate about technology, 
+currently developing Adobe Commerce / Magento Cloud projects 
+and always looking for the best development practices, whether Frontend or Backend.
+```
 
-<br>
-<br>
+- 🔭 I'm currently working on a personal project;
+- 🌱 I'm currently learning to create Magento 2 themes;
+- 🤔 I'm looking for help with Magento 2;
+- 💬 Ask me about Magento, Docker or Wordpress;
+- 📫 How to contact me: mateussantin.jr@gmail.com;
+- 😄 Pronouns: Mateus;
+- ⚡ Curiosity: mining knowledge;
+- 🇧🇷 Living in: Brazil;
 
-Hello, I'm Mateus Santin Jr, a passionate frontEnd web developer and self-taught web BackEnd from Brazil.
 
-- 🔭 I’m currently working on personal project 
-- 🌱 I’m currently learning Laravel 8
-- 🤔 I’m looking for help with Magento 2 or Laravel 8
-- 💬 Ask me about Magento or Wordpress and Laravel
-- 📫 How to reach me: mateussantin.jr@gmail.com
-- 😄 Pronouns: Mateus
-- ⚡ Fun fact: mining around
+### Experiences:
+![Magento](https://img.shields.io/badge/-Magento-000?&logo=Magento)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=FFFFFF)
+![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=Wordpress&logoColor=FFFFFF)
+![Cakephp](https://img.shields.io/badge/-Cakephp-000?&logo=Cakephp)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Composer](https://img.shields.io/badge/-Composer-000?&logo=Composer&logoColor=ffffff)
+![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Babel](https://img.shields.io/badge/-Babel-000?&logo=Babel)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
+![Html5](https://img.shields.io/badge/-Html5-000?&logo=Html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
+![Less](https://img.shields.io/badge/-Less-000?&logo=Less)
+![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=Yarn)
+![Npm](https://img.shields.io/badge/-Npm.js-000?&logo=Npm)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?&logo=Bitbucket&logoColor=0052CC)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu&logoColor=FCC624)
 
 <br>
 
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateussantin&show_icons=true)
-
-
-<!--
-### Languages Experiences:  
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/javascript.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/typescript.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/ionic.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/nodejs.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/flutter.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/expo.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/react.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/babel.svg"></code>
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/magento.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/laravel.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/wordpress.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/composer.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/cakephp.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/php.svg"></code>
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/html5.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/css3.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/bootstrap.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/materialdesign.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/sass.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/npm.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/yarn.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/gulp.svg"></code>
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/ubuntu.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/docker.svg"></code>
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/redis.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/mongodb.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/mysql.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/postgresql.svg"></code>
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/git.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/github.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/gitlab.svg"></code>
--->
 
 <br>
 
