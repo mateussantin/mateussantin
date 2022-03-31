@@ -15,6 +15,10 @@ and always looking for the best development practices, whether Frontend or Backe
 - ⚡ Curiosity: mining knowledge;
 - 🇧🇷 Living in: Brazil;
 
+### Studying at the moment:
+![Magento](https://img.shields.io/badge/-Magento-000?&logo=Magento)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+<br>
 
 ### Experiences:
 ![Magento](https://img.shields.io/badge/-Magento-000?&logo=Magento)
@@ -27,6 +31,7 @@ and always looking for the best development practices, whether Frontend or Backe
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Babel](https://img.shields.io/badge/-Babel-000?&logo=Babel)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
 ![Html5](https://img.shields.io/badge/-Html5-000?&logo=Html5)
