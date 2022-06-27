@@ -7,12 +7,12 @@ and always looking for the best development practices, whether Frontend or Backe
 ```
 
 - 🔭 I'm currently working on a personal project;
-- 🌱 I'm currently learning to create Magento 2 themes;
+- 🌱 I'm currently learning knockoutjs and underscorejs;
 - 🤔 I'm looking for help with Magento 2;
-- 💬 Ask me about Magento, Docker or Wordpress;
+- 💬 Ask me about Magento, Angular or Wordpress;
 - 📫 How to contact me: mateussantin.jr@gmail.com;
 - 😄 Pronouns: Mateus;
-- ⚡ Curiosity: mining knowledge;
+- ⚡ Curiosity: cryptocurrency mining knowledge;
 - 🇧🇷 Living in: Brazil;
 
 ### Studying at the moment:
